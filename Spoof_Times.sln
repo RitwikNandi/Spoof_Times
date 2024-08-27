@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spoof_Times", "Spoof_Times.csproj", "{8F93BAA4-665A-4A5C-9FEE-4441E859F41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F93BAA4-665A-4A5C-9FEE-4441E859F41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F93BAA4-665A-4A5C-9FEE-4441E859F41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F93BAA4-665A-4A5C-9FEE-4441E859F41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F93BAA4-665A-4A5C-9FEE-4441E859F41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D23B0480-11E5-4EB8-8F8B-F2C9B0A39FD1}
+	EndGlobalSection
+EndGlobal

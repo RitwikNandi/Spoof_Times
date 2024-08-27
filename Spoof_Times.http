@@ -1,0 +1,6 @@
+@Spoof_Times_HostAddress = http://localhost:5216
+
+GET {{Spoof_Times_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
